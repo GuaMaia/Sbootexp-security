@@ -1,0 +1,13 @@
+Apresento meu mais recente projeto utilizando Spring Security e Spring Boot 3! 
+
+ Com foco em segurança e controle de acesso completo, desenvolvi um sistema que cria 
+rotas eficientes para autenticação e autorização de usuários.
+ Implementei autenticação básica utilizando o processo de Security Filter Chain e filtros 
+customizados para uma autenticação via filtro robusta.
+ Além disso, adotei uma estratégia de autorização baseada em roles e authorities para garantir a 
+segurança em diferentes níveis de acesso. 
+ A lógica foi aprimorada com AuthenticationProvider para proporcionar uma autenticação 
+ainda mais segura e personalizada.
+ No meu projeto, você encontrará funcionalidades para criar usuários, 
+grupos e associações entre eles, proporcionando um controle completo 
+sobre as permissões de acesso.
